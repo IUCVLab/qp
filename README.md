@@ -10,7 +10,7 @@ Course content is a mixture of the following major sources:
 - [Programming quantum computers](https://www.oreilly.com/library/view/programming-quantum-computers/9781492039679/) book
 
 ## Course content
-Content will include all useful materials, slides, etc. derived during I'm teaching the course.
-
-
-<img src="https://latex.codecogs.com/gif.latex?L=E_t+\sigma|G_0\rangle" />
+Repository includes:
+- [labs](./labs)
+- [homework assignments](./hometask)
+- [2021 lecture recordings](https://www.youtube.com/playlist?list=PLneu1tELBieKXXurjHqtMsb2pee2evJvk).
