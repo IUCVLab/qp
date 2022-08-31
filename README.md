@@ -14,3 +14,4 @@ Repository includes:
 - [labs](https://github.com/IUCVLab/qp/tree/main/labs)
 - [homework assignments](https://github.com/IUCVLab/qp/tree/main/hometasks)
 - [2021 lecture recordings](https://www.youtube.com/playlist?list=PLneu1tELBieKXXurjHqtMsb2pee2evJvk).
+- [Additional content to read, watch, listen](https://github.com/IUCVLab/qp/tree/main/EXTRA.md).
